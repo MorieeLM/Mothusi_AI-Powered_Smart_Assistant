@@ -1,5 +1,5 @@
-# Title:
-## Project Description:
+# Mothusi - AI Powered Assistive Smart Assistance
+## An AI-Powered Assistive Smart Assistant designed to help people with disabilities by recognizing objects in their environment andresponding to voice commands with real-time voice feedback
 
 - [Title:](#title)
   - [Project Description:](#project-description)
