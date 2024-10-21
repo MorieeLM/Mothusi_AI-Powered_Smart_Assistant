@@ -17,6 +17,8 @@
 - [Known Issues](#known-issues)
 - [Contact Information](#contact-information)
 # Installation Instructions
+- install python (make sure pip is there else install it using "sudo apt install python3-pip ")
+- install utralytics (pip install untralytics)
 # Usage Instructions
 1. Assuming that a camera (IP camera), an embedded device (raspberry pi) and a monitor (We used a laptop monitor for this project) are present.
 2. 
