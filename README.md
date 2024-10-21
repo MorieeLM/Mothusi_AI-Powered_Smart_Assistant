@@ -12,7 +12,10 @@
 - [](#)
 # Installation Instructions
 # Usage Instructions
-# Technologies Used
+# Technologies Used:
+  1. YOLO
+  2. Tensorflow Lite
+  3. Python
 # Credits
 # Known Issues
 # Contact Information
