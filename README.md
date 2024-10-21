@@ -21,11 +21,15 @@
 ### Milestone 1
   **Requirement**: - *AI Model for Object Recognition*
                    - *Embedded System Device*
-                   - *Camera*# Technologies Used
+                   - *Camera*
+# Technologies Used
 ## Hardware
-  - Raspberry 
+  - Raspberry PI 4
+  - Android Phone (For Camera)
+  - Video Capturer Adapter
 ## Software
-# Milestones
+  - OBS Studio (To use laptop screen as a monitor)
+  - ultralytics (YOLOv11)# Milestones
 ## Milestone 1
 ## Summary
     Implemention of a basic object recognition system using a pretrained YOLOv11 model on a raspberry pi 4 using a an IP camera (From an android phone). The result of the detection are displayed on a desktop monitor.
