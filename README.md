@@ -4,8 +4,6 @@
 - [Mothusi - AI Powered Assistive Smart Assistance](#mothusi---ai-powered-assistive-smart-assistance)
   - [An AI-Powered Assistive Smart Assistant designed to help people with disabilities by recognizing objects in their environment andresponding to voice commands with real-time voice feedback](#an-ai-powered-assistive-smart-assistant-designed-to-help-people-with-disabilities-by-recognizing-objects-in-their-environment-andresponding-to-voice-commands-with-real-time-voice-feedback)
 - [Installation Instructions](#installation-instructions)
-- #install python (make sure pip is there else install it using "sudo apt install python3-pip ")
-- #install utralytics (pip install untralytics)
 - [Usage Instructions](#usage-instructions)
 - [Technologies Used](#technologies-used)
   - [Hardware](#hardware)
