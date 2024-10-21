@@ -16,6 +16,8 @@
 - [Contact Information](#contact-information)
 # Installation Instructions
 # Usage Instructions
+1. Assuming that a camera (IP camera), an embedded device (raspberry pi) and a monitor (We used a laptop monitor for this project) are present.
+2. 
 # Technologies Used
 ## Hardware
   - Raspberry 
