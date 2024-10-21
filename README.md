@@ -18,7 +18,10 @@
 # Usage Instructions
 1. Assuming that a camera (IP camera), an embedded device (raspberry pi) and a monitor (We used a laptop monitor for this project) are present.
 2. 
-# Technologies Used
+### Milestone 1
+  **Requirement**: - *AI Model for Object Recognition*
+                   - *Embedded System Device*
+                   - *Camera*# Technologies Used
 ## Hardware
   - Raspberry 
 ## Software
